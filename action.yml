@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Auto Podcast Generator"
 author: "Tokiniaina"
 description: "Generate podcast feeds from a YAML file"
 runs: 
